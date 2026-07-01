@@ -41,7 +41,7 @@ A **Spring Boot REST API** for managing employee records with JWT-based authenti
 
 ## ⚙️ Setup
 1. Clone the repository
-2. Configure MySQL in `application.properties`
+2. Rename `application.properties.example` to `application.properties` and add your MySQL password
 3. Run the application
 4. Access Swagger UI at `http://localhost:8080/swagger-ui/index.html`
 
