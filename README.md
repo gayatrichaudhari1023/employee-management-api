@@ -19,6 +19,9 @@ A **Spring Boot REST API** for managing employee records with JWT-based authenti
 - Maven
 - Swagger (SpringDoc OpenAPI)
 
+## 📸 Screenshots
+<img width="1867" height="886" alt="Swagger" src="https://github.com/user-attachments/assets/aa5f31fc-1d89-43fd-b99d-eed63d8c400e" />
+
 ## 📌 API Endpoints
 
 ### Auth
